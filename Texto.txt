@@ -1,0 +1,5 @@
+Hola
+
+Guarde el otro archivo como un archivo de pyton y era un texto plano, jeje
+
+Todo salia subrayado
